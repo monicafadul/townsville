@@ -17,7 +17,7 @@ Quem acordou mais cedo começa primeiro.
 
 Level 1 - O Pacto
 
-Level 2
+Level 2 - Roda da Tontura
 
 Level 3
 
