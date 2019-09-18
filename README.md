@@ -15,7 +15,7 @@ Quem acordou mais cedo começa primeiro.
 
 #Trajetória do Jogo
 
-Level 1
+Level 1 - O Pacto
 
 Level 2
 
